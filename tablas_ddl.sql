@@ -4,3 +4,4 @@ create table cliente(
 	dni char(8)
 )
 
+--autor: John Herrera
